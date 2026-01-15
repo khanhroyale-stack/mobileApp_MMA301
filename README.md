@@ -1,2 +1,2 @@
-# mobileApp_MMA301
+# MMA301_MobileApp
 Assignment MMA301
